@@ -68,7 +68,7 @@
 ### 贡献者
 | 成员 | 贡献领域 | 联系方式 |
 |------|----------|----------|
-| [![小明头像](https://avatars.githubusercontent.com/u/example?s=40)](https://github.com/xiaoming) [小明](https://github.com/xiaoming) | Termux环境优化 | xiaoming@example.com |
+| [![砂狼白子](https://avatars.githubusercontent.com/u/205312332?v=4)](https://github.com/Shiroko2025) [砂狼白子](https://github.com/Shiroko2025) | Termux环境优化 | shiroko2025@163.com |
 | *期待您的加入* | - | [贡献指南](#-贡献方式) |
 
 <!-- 快速开始 -->
@@ -88,7 +88,6 @@ curl -sL https://git.io/mobile-dev-setup | bash
 
 <!-- 页脚 -->
 <div align="center" style="margin-top: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 12px;">
-  <img src="https://raw.githubusercontent.com/gaowan-u/Mobile-Dev-Setup/main/assets/footer_logo.png" width="120">
   <p style="margin: 0.5rem 0 0; color: #666;">
     © 2024 Mobile Dev Setup | 
     <a href="LICENSE">MIT License</a> | 
