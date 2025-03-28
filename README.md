@@ -74,6 +74,7 @@
 ## ⚡ 快速开始
 
 完整安装说明请见[安装文档][install]。
+
 [install]: ./INSTALL.md
 
 
