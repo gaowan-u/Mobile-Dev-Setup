@@ -3,7 +3,7 @@
 📱 手机端Termux环境一键配置工具（支持Python/C++）
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/你的GitHub用户ID?s=200" width="100" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/174626969?v=4" width="100" style="border-radius: 50%;">
 </div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
