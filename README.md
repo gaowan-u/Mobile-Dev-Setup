@@ -73,11 +73,9 @@
 <!-- 快速开始 -->
 ## ⚡ 快速开始
 
-```bash
-# 基础安装（需要Termux）
-termux-setup-storage && \
-curl -sL https://git.io/mobile-dev-setup | bash
-```
+完整安装说明请见[安装文档][install]。
+[install]: ./INSTALL.md
+
 
 ## 🤝 贡献方式
 1. 提交Issue报告问题
