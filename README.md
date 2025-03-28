@@ -1,6 +1,5 @@
 <!-- 头部标题区 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gaowan-u/Mobile-Dev-Setup/main/assets/header_banner.png" width="800" alt="项目横幅">
   <h1>Mobile Dev Setup</h1>
   <h3>📱 手机端Termux开发环境终极解决方案</h3>
   
