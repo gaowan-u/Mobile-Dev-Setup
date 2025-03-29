@@ -30,9 +30,9 @@
 
 <!-- 高清贡献者墙 -->
 <div align="center" style="margin: 2rem 0;">
-  <h2>🌟 高清贡献者墙</h2>
+  <h2>🌟 贡献者墙</h2>
   <a href="https://github.com/gaowan-u/Mobile-Dev-Setup/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=gaowan-u/Mobile-Dev-Setup&size=128&columns=5&margin=2&v=2" 
+    <img src="https://avatars.githubusercontent.com/u/174626969?s=400&u=431c8faa95ab9f26ba3047dcc4b1e7c754c2e84d&v=4" 
          width="100%"
          style="border-radius: 8px;border:1px solid #eee;image-rendering: crisp-edges;">
   </a>
