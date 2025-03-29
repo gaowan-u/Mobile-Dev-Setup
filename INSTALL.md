@@ -18,8 +18,6 @@
 curl -L https://github.com/gaowan-u/Mobile-Dev-Setup/releases/download/install.sh/install.sh | bash
 ```
 
-
-
 ## 📞 技术支持
 遇到无法解决的问题时，可通过以下方式联系：
 - 开发者邮箱: [gaowange2024@163.com](mailto:gaowange2024@163.com)
@@ -27,5 +25,5 @@ curl -L https://github.com/gaowan-u/Mobile-Dev-Setup/releases/download/install.s
 
 <div align="center" style="margin-top:2rem;">
   <a href="#-安装指南">⬆️返回顶部</a> | 
-  <a href="../README.md">📚返回主文档</a>
+  <a href="README.md">📚返回主文档</a>
 </div>

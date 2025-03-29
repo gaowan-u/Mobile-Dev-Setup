@@ -3,13 +3,12 @@
   <h1>Mobile Dev Setup</h1>
   <h3>📱 手机端Termux开发环境终极解决方案</h3>
   
-  <!-- 动态徽章行 -->
-  <div>
-    <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/C++-20-red?logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Android-10%2B-brightgreen?logo=android" alt="Android">
-    <img src="https://img.shields.io/github/contributors/gaowan-u/Mobile-Dev-Setup?color=orange" alt="贡献者">
-  </div>
+<!-- 动态徽章行 -->
+<div>
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-20-red?logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Android-7%2B-brightgreen?logo=android" alt="Android">
+  <img src="https://img.shields.io/github/contributors/gaowan-u/Mobile-Dev-Setup?color=orange" alt="贡献者">
 </div>
 
 <!-- 创始人展示卡 -->
