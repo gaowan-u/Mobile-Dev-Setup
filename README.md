@@ -32,11 +32,7 @@
 <div align="center" style="margin: 2rem 0;">
   <h2>🌟 贡献者墙</h2>
   <a href="https://github.com/gaowan-u/Mobile-Dev-Setup/graphs/contributors">
-    <!-- 使用更高清的渲染参数 -->
-    <img src="https://contrib.rocks/image?repo=gaowan-u/Mobile-Dev-Setup&columns=5&size=128&anon=false&margin=2" 
-         width="100%"
-         alt="项目贡献者"
-         style="border-radius: 8px; border: 1px solid #eee;"/>
+  <img src="https://opencollective.com/gaowan-u/contributors.svg?width=890&button=false" />
   </a>
   <p><small>点击查看所有贡献者</small></p>
 </div>
