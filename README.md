@@ -30,11 +30,13 @@
 
 <!-- 高清贡献者墙 -->
 <div align="center" style="margin: 2rem 0;">
-  <h2>🌟 贡献者墙</h2>
+  <h2>🌟 高清贡献者墙</h2>
   <a href="https://github.com/gaowan-u/Mobile-Dev-Setup/graphs/contributors">
-  <img src="https://opencollective.com/gaowan-u/contributors.svg?width=890&button=false" />
+    <img src="https://contrib.rocks/image?repo=gaowan-u/Mobile-Dev-Setup&size=128&columns=5&margin=2&v=2" 
+         width="100%"
+         style="border-radius: 8px;border:1px solid #eee;image-rendering: crisp-edges;">
   </a>
-  <p><small>点击查看所有贡献者</small></p>
+  <p><small>✨ 点击头像查看贡献详情</small></p>
 </div>
 
 <!-- 特性展示区 -->
