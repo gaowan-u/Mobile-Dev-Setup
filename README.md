@@ -28,15 +28,49 @@
   </div>
 </div>
 
-<!-- 高清贡献者墙 -->
+<!-- 圆形头像贡献者墙 -->
 <div align="center" style="margin: 2rem 0;">
-  <h2>🌟 贡献者墙</h2>
-  <a href="https://github.com/gaowan-u/Mobile-Dev-Setup/graphs/contributors">
-    <img src="https://avatars.githubusercontent.com/u/174626969?s=400&u=431c8faa95ab9f26ba3047dcc4b1e7c754c2e84d&v=4" 
-         width="100%"
-         style="border-radius: 8px;border:1px solid #eee;image-rendering: crisp-edges;">
-  </a>
-  <p><small>✨ 点击头像查看贡献详情</small></p>
+  <h2>🌟 核心贡献者</h2>
+  <div style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    max-width: 800px;
+    margin: 0 auto;
+  ">
+    <a href="https://github.com/gaowan-u" style="text-decoration:none;">
+      <img src="https://avatars.githubusercontent.com/u/174626969?s=400&v=4" 
+           width="80"
+           height="80"
+           style="border-radius: 50%; border: 3px solid #12B7F5; object-fit: cover;">
+    </a>
+    <a href="https://github.com/Shiroko2025" style="text-decoration:none;">
+      <img src="https://avatars.githubusercontent.com/u/205312332?v=4" 
+           width="80"
+           height="80"
+           style="border-radius: 50%; border: 3px solid #12B7F5; object-fit: cover;">
+    </a>
+    <!-- 添加更多贡献者 -->
+    <div style="
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background: #f0f0f0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 2px dashed #ccc;
+    ">
+      <span style="color: #666; font-size: 12px;">期待您</span>
+    </div>
+  </div>
+  <p style="margin-top: 1rem;">
+    <a href="https://github.com/gaowan-u/Mobile-Dev-Setup/graphs/contributors" 
+       style="color: #12B7F5; text-decoration: none;">
+      查看完整贡献者列表 →
+    </a>
+  </p>
 </div>
 
 <!-- 特性展示区 -->
